@@ -35,7 +35,7 @@ const App = () => {
               !open && "scale-0"
             }`}
           >
-            Designer
+            Hey!!
           </h1>
         </div>
         <ul className="pt-6">
